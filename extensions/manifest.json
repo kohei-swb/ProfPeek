@@ -1,18 +1,17 @@
 {
-  "name": "UBCProfPeek",
-  "description": "Displaying proffesor rate on workday",
-  "version": "1.0",
   "manifest_version": 3,
-  "permission":["scripting"],
-  "host_permission": ["<all_urls>"],
-  "action": {
-    "default_popup": "hello.html",
-    "default_icon": "icon.png"
-  },
+  "name": "ProfPeek",
+  "version": "1.0",
   "content_scripts": [
     {
-      "matches": ["https://wd10.myworkday.com/ubc/d/task/*"],
+      "matches": ["https://wd10.myworkday.com/ubc/d/task/*"], 
       "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["resources/professors.json"],
+      "matches": ["<all_urls>"]
     }
   ]
 }
