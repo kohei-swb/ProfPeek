@@ -5,9 +5,89 @@
     "department": "Psychology",
     "school": "University of British Columbia - Okanagan",
     "rating": 3.9,
-    "num_ratings": 154,
-    "would_take_again": "64",
+    "num_ratings": 155,
+    "would_take_again": "65",
     "difficulty": 3.7
+  },
+  {
+    "tid": "2137328",
+    "name": "Suzanne Gott",
+    "department": "Art History",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 3.5,
+    "num_ratings": 17,
+    "would_take_again": "69",
+    "difficulty": 3.4
+  },
+  {
+    "tid": "2847633",
+    "name": "Sakiru Adebayo",
+    "department": "English",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 5.0,
+    "num_ratings": 5,
+    "would_take_again": "100",
+    "difficulty": 2.6
+  },
+  {
+    "tid": "2546418",
+    "name": "Rebecca Feldman",
+    "department": "Physics",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 3.2,
+    "num_ratings": 29,
+    "would_take_again": "56",
+    "difficulty": 4.0
+  },
+  {
+    "tid": "2961604",
+    "name": "Sepehr Mosadegh",
+    "department": "Engineering",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 3.3,
+    "num_ratings": 9,
+    "would_take_again": "45",
+    "difficulty": 3.4
+  },
+  {
+    "tid": "884602",
+    "name": "Rebecca Frechette",
+    "department": "Education",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 3.6,
+    "num_ratings": 6,
+    "would_take_again": "34",
+    "difficulty": 1.7
+  },
+  {
+    "tid": "2816860",
+    "name": "Klaske Van Heusden",
+    "department": "Engineering",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 1.6,
+    "num_ratings": 41,
+    "would_take_again": "18",
+    "difficulty": 4.6
+  },
+  {
+    "tid": "2934884",
+    "name": "Jose Sapien",
+    "department": "Biology",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 4.9,
+    "num_ratings": 39,
+    "would_take_again": "95",
+    "difficulty": 2.5
+  },
+  {
+    "tid": "2430653",
+    "name": "Mohammad Zarifi",
+    "department": "Engineering",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 3.4,
+    "num_ratings": 24,
+    "would_take_again": "63",
+    "difficulty": 3.9
   },
   {
     "tid": "728363",
@@ -130,16 +210,6 @@
     "difficulty": 2.9
   },
   {
-    "tid": "2816860",
-    "name": "Klaske Van Heusden",
-    "department": "Engineering",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 1.7,
-    "num_ratings": 37,
-    "would_take_again": "19",
-    "difficulty": 4.6
-  },
-  {
     "tid": "938349",
     "name": "Francisco Pena",
     "department": "Critical Studies",
@@ -148,16 +218,6 @@
     "num_ratings": 36,
     "would_take_again": "71",
     "difficulty": 2.2
-  },
-  {
-    "tid": "2137328",
-    "name": "Suzanne Gott",
-    "department": "Art History",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 3.4,
-    "num_ratings": 16,
-    "would_take_again": "67",
-    "difficulty": 3.4
   },
   {
     "tid": "2553026",
@@ -490,16 +550,6 @@
     "difficulty": 2.9
   },
   {
-    "tid": "2961604",
-    "name": "Sepehr Mosadegh",
-    "department": "Engineering",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 2.9,
-    "num_ratings": 9,
-    "would_take_again": "38",
-    "difficulty": 3.6
-  },
-  {
     "tid": "2776179",
     "name": "Mahmudur Fatmi",
     "department": "Engineering",
@@ -578,16 +628,6 @@
     "num_ratings": 7,
     "would_take_again": "29",
     "difficulty": 4.0
-  },
-  {
-    "tid": "2934884",
-    "name": "Jose Sapien",
-    "department": "Biology",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 4.9,
-    "num_ratings": 38,
-    "would_take_again": "95",
-    "difficulty": 2.5
   },
   {
     "tid": "2788887",
@@ -1420,16 +1460,6 @@
     "difficulty": 3.5
   },
   {
-    "tid": "2430653",
-    "name": "Mohammad Zarifi",
-    "department": "Engineering",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 3.4,
-    "num_ratings": 23,
-    "would_take_again": "61",
-    "difficulty": 3.8
-  },
-  {
     "tid": "2547743",
     "name": "Eva Kasprzycka",
     "department": "Critical Studies",
@@ -2118,16 +2148,6 @@
     "num_ratings": 7,
     "would_take_again": "29",
     "difficulty": 3.6
-  },
-  {
-    "tid": "2546418",
-    "name": "Rebecca Feldman",
-    "department": "Physics",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 3.1,
-    "num_ratings": 28,
-    "would_take_again": "54",
-    "difficulty": 4.0
   },
   {
     "tid": "897891",
@@ -3920,16 +3940,6 @@
     "difficulty": 2.0
   },
   {
-    "tid": "2847633",
-    "name": "Sakiru Adebayo",
-    "department": "English",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 5.0,
-    "num_ratings": 4,
-    "would_take_again": "100",
-    "difficulty": 2.8
-  },
-  {
     "tid": "2419190",
     "name": "Jacqueline Denison",
     "department": "Nursing",
@@ -4218,16 +4228,6 @@
     "num_ratings": 13,
     "would_take_again": "50",
     "difficulty": 3.3
-  },
-  {
-    "tid": "884602",
-    "name": "Rebecca Frechette",
-    "department": "Education",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 4.1,
-    "num_ratings": 5,
-    "would_take_again": "50",
-    "difficulty": 1.8
   },
   {
     "tid": "2766387",
