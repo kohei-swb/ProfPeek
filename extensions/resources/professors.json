@@ -1,5 +1,345 @@
 [
   {
+    "tid": "1950545",
+    "name": "Ying Zhu",
+    "department": "Management",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 3.9,
+    "num_ratings": 27,
+    "would_take_again": "72",
+    "difficulty": 2.6
+  },
+  {
+    "tid": "344248",
+    "name": "Aleksandra Dulic",
+    "department": "Visual Arts",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 3.3,
+    "num_ratings": 17,
+    "would_take_again": "67",
+    "difficulty": 3.1
+  },
+  {
+    "tid": "2917939",
+    "name": "Mostafa  Mohamed",
+    "department": "Computer Science",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 3.3,
+    "num_ratings": 7,
+    "would_take_again": "72",
+    "difficulty": 2.4
+  },
+  {
+    "tid": "2816860",
+    "name": "Klaske Van Heusden",
+    "department": "Engineering",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 1.6,
+    "num_ratings": 43,
+    "would_take_again": "17",
+    "difficulty": 4.7
+  },
+  {
+    "tid": "1524432",
+    "name": "Claude Hurtubise",
+    "department": "Statistics",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 4.0,
+    "num_ratings": 23,
+    "would_take_again": "93",
+    "difficulty": 3.0
+  },
+  {
+    "tid": "3109308",
+    "name": "Ken Chidlow",
+    "department": "Computer Science",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 5.0,
+    "num_ratings": 1,
+    "would_take_again": "100",
+    "difficulty": 3.0
+  },
+  {
+    "tid": "2347895",
+    "name": "Chad Davis",
+    "department": "Mathematics",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 3.0,
+    "num_ratings": 168,
+    "would_take_again": "53",
+    "difficulty": 3.7
+  },
+  {
+    "tid": "2870961",
+    "name": "Ethan Guagliardo",
+    "department": "English",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 4.6,
+    "num_ratings": 12,
+    "would_take_again": "84",
+    "difficulty": 2.8
+  },
+  {
+    "tid": "2687805",
+    "name": "Nibirh Jawad",
+    "department": "Engineering",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 2.8,
+    "num_ratings": 4,
+    "would_take_again": "50",
+    "difficulty": 4.3
+  },
+  {
+    "tid": "2946181",
+    "name": "HOORNAZ KESHAVARZIAN,",
+    "department": "Cultural Studies",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 1.8,
+    "num_ratings": 4,
+    "would_take_again": "25",
+    "difficulty": 3.3
+  },
+  {
+    "tid": "2620926",
+    "name": "Paul Tsopmene",
+    "department": "Mathematics",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 4.5,
+    "num_ratings": 83,
+    "would_take_again": "85",
+    "difficulty": 2.7
+  },
+  {
+    "tid": "2934884",
+    "name": "Jose Sapien",
+    "department": "Biology",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 4.8,
+    "num_ratings": 40,
+    "would_take_again": "93",
+    "difficulty": 2.5
+  },
+  {
+    "tid": "2690349",
+    "name": "Mohammad Arjmand",
+    "department": "Engineering",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 2.6,
+    "num_ratings": 5,
+    "would_take_again": "40",
+    "difficulty": 3.0
+  },
+  {
+    "tid": "1733627",
+    "name": "Scott Fazackerley",
+    "department": "Computer Science",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 4.6,
+    "num_ratings": 47,
+    "would_take_again": "89",
+    "difficulty": 3.5
+  },
+  {
+    "tid": "2553026",
+    "name": "Robin Young",
+    "department": "Biology",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 3.2,
+    "num_ratings": 100,
+    "would_take_again": "58",
+    "difficulty": 3.6
+  },
+  {
+    "tid": "1789031",
+    "name": "Maya Libben",
+    "department": "Psychology",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 4.7,
+    "num_ratings": 81,
+    "would_take_again": "94",
+    "difficulty": 2.2
+  },
+  {
+    "tid": "2861382",
+    "name": "Summer Xia Li",
+    "department": "Chemistry",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 3.5,
+    "num_ratings": 27,
+    "would_take_again": "75",
+    "difficulty": 3.1
+  },
+  {
+    "tid": "884341",
+    "name": "David Jack",
+    "department": "Chemistry",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 3.6,
+    "num_ratings": 26,
+    "would_take_again": "63",
+    "difficulty": 3.6
+  },
+  {
+    "tid": "2350904",
+    "name": "Greg Dumanoir",
+    "department": "Human Kinetics",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 2.3,
+    "num_ratings": 21,
+    "would_take_again": "34",
+    "difficulty": 4.3
+  },
+  {
+    "tid": "2408196",
+    "name": "Dean Richert",
+    "department": "Engineering",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 4.0,
+    "num_ratings": 24,
+    "would_take_again": "80",
+    "difficulty": 4.0
+  },
+  {
+    "tid": "1712176",
+    "name": "Jannik Eikenaar",
+    "department": "English",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 4.3,
+    "num_ratings": 16,
+    "would_take_again": "82",
+    "difficulty": 2.8
+  },
+  {
+    "tid": "641038",
+    "name": "Michael Woodworth",
+    "department": "Psychology",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 4.2,
+    "num_ratings": 87,
+    "would_take_again": "79",
+    "difficulty": 2.6
+  },
+  {
+    "tid": "1035673",
+    "name": "Laura Patterson",
+    "department": "Engineering",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 3.2,
+    "num_ratings": 29,
+    "would_take_again": "48",
+    "difficulty": 3.3
+  },
+  {
+    "tid": "1909369",
+    "name": "Norma Hilsmann",
+    "department": "Nursing",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 3.4,
+    "num_ratings": 15,
+    "would_take_again": "60",
+    "difficulty": 4.0
+  },
+  {
+    "tid": "2541852",
+    "name": "Norma Hillsman",
+    "department": "Nursing",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 3.7,
+    "num_ratings": 7,
+    "would_take_again": "72",
+    "difficulty": 3.1
+  },
+  {
+    "tid": "1810720",
+    "name": "Paul Lee",
+    "department": "Mathematics",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 4.9,
+    "num_ratings": 68,
+    "would_take_again": "99",
+    "difficulty": 2.2
+  },
+  {
+    "tid": "644940",
+    "name": "Ruth Frost",
+    "department": "History",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 3.5,
+    "num_ratings": 43,
+    "would_take_again": "47",
+    "difficulty": 3.3
+  },
+  {
+    "tid": "1505857",
+    "name": "Annamma Joy",
+    "department": "Management",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 2.8,
+    "num_ratings": 48,
+    "would_take_again": "45",
+    "difficulty": 3.4
+  },
+  {
+    "tid": "3051675",
+    "name": "Dilsora  Fozilova",
+    "department": "Sociology",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 4.8,
+    "num_ratings": 4,
+    "would_take_again": "100",
+    "difficulty": 3.0
+  },
+  {
+    "tid": "1599039",
+    "name": "Warren Hare",
+    "department": "Mathematics",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 3.0,
+    "num_ratings": 58,
+    "would_take_again": "49",
+    "difficulty": 3.3
+  },
+  {
+    "tid": "2485662",
+    "name": "Anas Chaaban",
+    "department": "Engineering",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 3.0,
+    "num_ratings": 24,
+    "would_take_again": "46",
+    "difficulty": 3.5
+  },
+  {
+    "tid": "2781079",
+    "name": "Min Hu",
+    "department": "Economics",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 4.3,
+    "num_ratings": 23,
+    "would_take_again": "83",
+    "difficulty": 4.0
+  },
+  {
+    "tid": "2952766",
+    "name": "Graham Moore",
+    "department": "Philosophy",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 3.8,
+    "num_ratings": 5,
+    "would_take_again": "80",
+    "difficulty": 3.2
+  },
+  {
+    "tid": "2381277",
+    "name": "Todd Campbell",
+    "department": "Economics",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 4.3,
+    "num_ratings": 3,
+    "would_take_again": "100",
+    "difficulty": 2.7
+  },
+  {
     "tid": "641035",
     "name": "Jan Cioe",
     "department": "Psychology",
@@ -58,26 +398,6 @@
     "num_ratings": 6,
     "would_take_again": "34",
     "difficulty": 1.7
-  },
-  {
-    "tid": "2816860",
-    "name": "Klaske Van Heusden",
-    "department": "Engineering",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 1.6,
-    "num_ratings": 41,
-    "would_take_again": "18",
-    "difficulty": 4.6
-  },
-  {
-    "tid": "2934884",
-    "name": "Jose Sapien",
-    "department": "Biology",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 4.9,
-    "num_ratings": 39,
-    "would_take_again": "95",
-    "difficulty": 2.5
   },
   {
     "tid": "2430653",
@@ -190,16 +510,6 @@
     "difficulty": 2.8
   },
   {
-    "tid": "2620926",
-    "name": "Paul Tsopmene",
-    "department": "Mathematics",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 4.5,
-    "num_ratings": 82,
-    "would_take_again": "85",
-    "difficulty": 2.7
-  },
-  {
     "tid": "1360954",
     "name": "Jake Bobowski",
     "department": "Physics",
@@ -218,16 +528,6 @@
     "num_ratings": 36,
     "would_take_again": "71",
     "difficulty": 2.2
-  },
-  {
-    "tid": "2553026",
-    "name": "Robin Young",
-    "department": "Biology",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 3.2,
-    "num_ratings": 99,
-    "would_take_again": "58",
-    "difficulty": 3.6
   },
   {
     "tid": "2223193",
@@ -400,16 +700,6 @@
     "difficulty": 2.5
   },
   {
-    "tid": "2347895",
-    "name": "Chad Davis",
-    "department": "Mathematics",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 3.0,
-    "num_ratings": 166,
-    "would_take_again": "54",
-    "difficulty": 3.7
-  },
-  {
     "tid": "2394223",
     "name": "Yas Yamin",
     "department": "Physics",
@@ -520,16 +810,6 @@
     "difficulty": 3.2
   },
   {
-    "tid": "2917939",
-    "name": "Mostafa  Mohamed",
-    "department": "Computer Science",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 3.2,
-    "num_ratings": 6,
-    "would_take_again": "67",
-    "difficulty": 2.5
-  },
-  {
     "tid": "2620893",
     "name": "Graeme Webb",
     "department": "Engineering",
@@ -596,7 +876,7 @@
     "school": "University of British Columbia - Okanagan",
     "rating": 1.4,
     "num_ratings": 200,
-    "would_take_again": "8",
+    "would_take_again": "35",
     "difficulty": 4.6
   },
   {
@@ -680,26 +960,6 @@
     "difficulty": 3.3
   },
   {
-    "tid": "1733627",
-    "name": "Scott Fazackerley",
-    "department": "Computer Science",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 4.6,
-    "num_ratings": 46,
-    "would_take_again": "89",
-    "difficulty": 3.5
-  },
-  {
-    "tid": "1950545",
-    "name": "Ying Zhu",
-    "department": "Management",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 3.8,
-    "num_ratings": 26,
-    "would_take_again": "71",
-    "difficulty": 2.6
-  },
-  {
     "tid": "1739696",
     "name": "Sumi Siddiqua",
     "department": "Engineering",
@@ -780,16 +1040,6 @@
     "difficulty": 2.7
   },
   {
-    "tid": "1810720",
-    "name": "Paul Lee",
-    "department": "Mathematics",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 4.9,
-    "num_ratings": 67,
-    "would_take_again": "99",
-    "difficulty": 2.2
-  },
-  {
     "tid": "751850",
     "name": "Dan Vollick",
     "department": "Astronomy",
@@ -808,16 +1058,6 @@
     "num_ratings": 42,
     "would_take_again": "75",
     "difficulty": 3.4
-  },
-  {
-    "tid": "2485662",
-    "name": "Anas Chaaban",
-    "department": "Engineering",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 2.9,
-    "num_ratings": 23,
-    "would_take_again": "44",
-    "difficulty": 3.5
   },
   {
     "tid": "2630340",
@@ -898,16 +1138,6 @@
     "num_ratings": 55,
     "would_take_again": "28",
     "difficulty": 4.1
-  },
-  {
-    "tid": "644940",
-    "name": "Ruth Frost",
-    "department": "History",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 3.5,
-    "num_ratings": 42,
-    "would_take_again": "50",
-    "difficulty": 3.2
   },
   {
     "tid": "2288402",
@@ -1040,16 +1270,6 @@
     "difficulty": 3.7
   },
   {
-    "tid": "2870961",
-    "name": "Ethan Guagliardo",
-    "department": "English",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 4.3,
-    "num_ratings": 12,
-    "would_take_again": "82",
-    "difficulty": 2.8
-  },
-  {
     "tid": "2999921",
     "name": "Layla Cameron",
     "department": "Women's Studies",
@@ -1128,16 +1348,6 @@
     "num_ratings": 8,
     "would_take_again": "50",
     "difficulty": 3.6
-  },
-  {
-    "tid": "641038",
-    "name": "Michael Woodworth",
-    "department": "Psychology",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 4.2,
-    "num_ratings": 86,
-    "would_take_again": "78",
-    "difficulty": 2.6
   },
   {
     "tid": "1872873",
@@ -1358,16 +1568,6 @@
     "num_ratings": 52,
     "would_take_again": "70",
     "difficulty": 3.1
-  },
-  {
-    "tid": "2408196",
-    "name": "Dean Richert",
-    "department": "Engineering",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 4.3,
-    "num_ratings": 22,
-    "would_take_again": "87",
-    "difficulty": 4.0
   },
   {
     "tid": "884350",
@@ -1600,16 +1800,6 @@
     "difficulty": 3.6
   },
   {
-    "tid": "2861382",
-    "name": "Summer Xia Li",
-    "department": "Chemistry",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 3.6,
-    "num_ratings": 26,
-    "would_take_again": "77",
-    "difficulty": 3.0
-  },
-  {
     "tid": "2964822",
     "name": "Christopher Collier",
     "department": "Engineering",
@@ -1738,16 +1928,6 @@
     "num_ratings": 10,
     "would_take_again": "40",
     "difficulty": 3.1
-  },
-  {
-    "tid": "1505857",
-    "name": "Annamma Joy",
-    "department": "Management",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 2.8,
-    "num_ratings": 47,
-    "would_take_again": "44",
-    "difficulty": 3.4
   },
   {
     "tid": "860377",
@@ -2000,16 +2180,6 @@
     "difficulty": 2.7
   },
   {
-    "tid": "2541852",
-    "name": "Norma Hillsman",
-    "department": "Nursing",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 4.2,
-    "num_ratings": 6,
-    "would_take_again": "84",
-    "difficulty": 3.2
-  },
-  {
     "tid": "2871652",
     "name": "Brenda Huber",
     "department": "Nursing",
@@ -2018,26 +2188,6 @@
     "num_ratings": 4,
     "would_take_again": "75",
     "difficulty": 2.3
-  },
-  {
-    "tid": "884341",
-    "name": "David Jack",
-    "department": "Chemistry",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 3.6,
-    "num_ratings": 25,
-    "would_take_again": "60",
-    "difficulty": 3.6
-  },
-  {
-    "tid": "1789031",
-    "name": "Maya Libben",
-    "department": "Psychology",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 4.7,
-    "num_ratings": 80,
-    "would_take_again": "94",
-    "difficulty": 2.2
   },
   {
     "tid": "1986963",
@@ -2078,16 +2228,6 @@
     "num_ratings": 9,
     "would_take_again": "89",
     "difficulty": 2.2
-  },
-  {
-    "tid": "1035673",
-    "name": "Laura Patterson",
-    "department": "Engineering",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 3.3,
-    "num_ratings": 28,
-    "would_take_again": "50",
-    "difficulty": 3.3
   },
   {
     "tid": "3028327",
@@ -2320,16 +2460,6 @@
     "difficulty": 2.5
   },
   {
-    "tid": "2690349",
-    "name": "Mohammad Arjmand",
-    "department": "Engineering",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 3.0,
-    "num_ratings": 4,
-    "would_take_again": "50",
-    "difficulty": 3.0
-  },
-  {
     "tid": "2659540",
     "name": "Francois Gauthier",
     "department": "History",
@@ -2560,16 +2690,6 @@
     "difficulty": 2.1
   },
   {
-    "tid": "2781079",
-    "name": "Min Hu",
-    "department": "Economics",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 4.3,
-    "num_ratings": 22,
-    "would_take_again": "82",
-    "difficulty": 4.1
-  },
-  {
     "tid": "2620097",
     "name": "Firas Moosvi",
     "department": "Physics",
@@ -2628,36 +2748,6 @@
     "num_ratings": 14,
     "would_take_again": "0",
     "difficulty": 4.7
-  },
-  {
-    "tid": "3051675",
-    "name": "Dilsora  Fozilova",
-    "department": "Sociology",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 4.7,
-    "num_ratings": 3,
-    "would_take_again": "100",
-    "difficulty": 2.7
-  },
-  {
-    "tid": "2946181",
-    "name": "HOORNAZ KESHAVARZIAN,",
-    "department": "Cultural Studies",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 1.0,
-    "num_ratings": 2,
-    "would_take_again": "0",
-    "difficulty": 3.0
-  },
-  {
-    "tid": "1599039",
-    "name": "Warren Hare",
-    "department": "Mathematics",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 3.0,
-    "num_ratings": 57,
-    "would_take_again": "50",
-    "difficulty": 3.3
   },
   {
     "tid": "842776",
@@ -2890,16 +2980,6 @@
     "difficulty": 3.1
   },
   {
-    "tid": "1712176",
-    "name": "Jannik Eikenaar",
-    "department": "English",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 4.2,
-    "num_ratings": 15,
-    "would_take_again": "80",
-    "difficulty": 2.7
-  },
-  {
     "tid": "3030875",
     "name": "Wouter Bam",
     "department": "Engineering",
@@ -2918,16 +2998,6 @@
     "num_ratings": 7,
     "would_take_again": "29",
     "difficulty": 3.0
-  },
-  {
-    "tid": "2952766",
-    "name": "Graham Moore",
-    "department": "Philosophy",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 3.8,
-    "num_ratings": 4,
-    "would_take_again": "75",
-    "difficulty": 3.3
   },
   {
     "tid": "1364674",
@@ -3400,16 +3470,6 @@
     "difficulty": 3.6
   },
   {
-    "tid": "1524432",
-    "name": "Claude Hurtubise",
-    "department": "Statistics",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 3.8,
-    "num_ratings": 20,
-    "would_take_again": "90",
-    "difficulty": 3.0
-  },
-  {
     "tid": "884312",
     "name": "Alwyn Spies",
     "department": "Japanese",
@@ -3598,16 +3658,6 @@
     "num_ratings": 16,
     "would_take_again": "78",
     "difficulty": 1.7
-  },
-  {
-    "tid": "2350904",
-    "name": "Greg Dumanoir",
-    "department": "Human Kinetics",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 2.2,
-    "num_ratings": 20,
-    "would_take_again": "30",
-    "difficulty": 4.4
   },
   {
     "tid": "1598194",
@@ -3868,16 +3918,6 @@
     "num_ratings": 3,
     "would_take_again": "100",
     "difficulty": 1.3
-  },
-  {
-    "tid": "1909369",
-    "name": "Norma Hilsmann",
-    "department": "Nursing",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 3.6,
-    "num_ratings": 14,
-    "would_take_again": "67",
-    "difficulty": 4.1
   },
   {
     "tid": "2721742",
@@ -5840,16 +5880,6 @@
     "difficulty": 3.1
   },
   {
-    "tid": "344248",
-    "name": "Aleksandra Dulic",
-    "department": "Visual Arts",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 3.6,
-    "num_ratings": 15,
-    "would_take_again": "80",
-    "difficulty": 3.3
-  },
-  {
     "tid": "2386795",
     "name": "Jan McTavish",
     "department": "History",
@@ -5858,16 +5888,6 @@
     "num_ratings": 2,
     "would_take_again": "100",
     "difficulty": 3.5
-  },
-  {
-    "tid": "2687805",
-    "name": "Nibirh Jawad",
-    "department": "Engineering",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 2.0,
-    "num_ratings": 3,
-    "would_take_again": "34",
-    "difficulty": 4.7
   },
   {
     "tid": "2024076",
@@ -5938,16 +5958,6 @@
     "num_ratings": 3,
     "would_take_again": "0",
     "difficulty": 4.7
-  },
-  {
-    "tid": "2381277",
-    "name": "Todd Campbell",
-    "department": "Economics",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 4.0,
-    "num_ratings": 2,
-    "would_take_again": "100",
-    "difficulty": 3.0
   },
   {
     "tid": "2694737",
@@ -9360,16 +9370,6 @@
     "difficulty": 3.0
   },
   {
-    "tid": "884651",
-    "name": "Penelope Cash",
-    "department": "Nursing",
-    "school": "University of British Columbia - Okanagan",
-    "rating": 2.8,
-    "num_ratings": 3,
-    "would_take_again": "N/A",
-    "difficulty": 2.7
-  },
-  {
     "tid": "1289950",
     "name": "Andy Doyle",
     "department": "Nursing",
@@ -9378,6 +9378,16 @@
     "num_ratings": 3,
     "would_take_again": "N/A",
     "difficulty": 1.7
+  },
+  {
+    "tid": "884651",
+    "name": "Penelope Cash",
+    "department": "Nursing",
+    "school": "University of British Columbia - Okanagan",
+    "rating": 2.8,
+    "num_ratings": 3,
+    "would_take_again": "N/A",
+    "difficulty": 2.7
   },
   {
     "tid": "884317",
